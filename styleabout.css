@@ -1,0 +1,50 @@
+body {
+		
+	background-image: url('homeone.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+	background-color: #f0f0f0;
+	font-family: Arial, sans-serif;
+}
+
+header {
+	background-color: #c0392b;
+	color: #fff;
+	padding: 5px;
+	display:inherit;
+	align-items: center;
+}
+nav ul {
+	list-style: none;
+	margin:30 ;
+	padding: 10;
+	display:flex;
+}
+
+nav ul li {
+	margin: 0 5px;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration:none;
+}
+.about {
+	background-color: #786776;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+.about h2 {
+	margin-top: 0;
+
+}
+h1{
+    color:#f3eb06;
+}
+p
+{
+    color:#000000
+}
